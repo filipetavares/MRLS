@@ -5,4 +5,7 @@
 *.tlog
 *.sdf
 *.exp
+*.res
+*.idb
 MRLS.opensdf
+!ConsoleLoggerHelper.exe
