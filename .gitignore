@@ -7,5 +7,7 @@
 *.exp
 *.res
 *.idb
+*.ipch
 MRLS.opensdf
 !ConsoleLoggerHelper.exe
+!/MRLS/MRLS/opencv3.1/

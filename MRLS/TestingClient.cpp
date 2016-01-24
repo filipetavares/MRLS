@@ -3,6 +3,7 @@
 #include "TestingClient.h"
 #include <opencv\cv.h>
 #include <thread>
+#include <opencv2\video\tracking.hpp>
 
 
 
